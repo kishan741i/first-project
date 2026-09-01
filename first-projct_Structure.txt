@@ -1,0 +1,50 @@
+--- फोल्डर का Tree Structure ---
+├── first-projct
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── public
+│       ├── favicon.svg
+│   ├── src
+│   │   ├── App.tsx
+│   │   ├── components
+│   │   │   ├── EmptyState.tsx
+│   │   │   ├── ExamPaperCard.tsx
+│   │   │   ├── Filecon.tsx
+│   │   │   ├── Footer.tsx
+│   │   │   ├── Model.tsx
+│   │   │   ├── Navbar.tsx
+│   │   │   ├── PageHeader.tsx
+│   │   │   ├── QuickLinkCard.tsx
+│   │   │   ├── ResourceCard.tsx
+│   │   │   ├── ResourceModal.tsx
+│   │   │   ├── SemesterCard.tsx
+│   │       ├── SubjectCard.tsx
+│   │   ├── data
+│   │   │   ├── examPapers.ts
+│   │   │   ├── quickLinks.ts
+│   │   │   ├── resources.ts
+│   │   │   ├── semesters.ts
+│   │   │   ├── siteConfig.ts
+│   │   │   ├── subject.ts
+│   │       ├── types.ts
+│   │   ├── index.css
+│   │   ├── main.tsx
+│   │   ├── pages
+│   │   │   ├── AboutPage.tsx
+│   │   │   ├── ExamPapersPage.tsx
+│   │   │   ├── HomePage.tsx
+│   │   │   ├── NotFoundPage.tsx
+│   │   │   ├── QuickLinksPage.tsx
+│   │   │   ├── SearchPage.tsx
+│   │   │   ├── SemesterDetailPage.tsx
+│   │   │   ├── SemesterPage.tsx
+│   │       ├── SubjectDetailPage.tsx
+│   │   ├── utils
+│   │       ├── search.ts
+│       ├── vite-env.d.ts
+│   ├── tailwind.config.js
+│   ├── tsconfig.json
+│   ├── tsconfig.tsbuildinfo
+    ├── vite.config.ts
