@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import HomePage from "./pages/HomePage";
-import SemestersPage from "./pages/SemesterPage";
+import SemestersPage from "./pages/SemestersPage";
 import SemesterDetailPage from "./pages/SemesterDetailPage";
 import SubjectDetailPage from "./pages/SubjectDetailPage";
 import ExamPapersPage from "./pages/ExamPapersPage";
